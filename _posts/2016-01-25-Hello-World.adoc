@@ -1,2 +1,3 @@
-= Hello World.
-This is my first blog entry in Github using HubPress.
+= Hello World
+
+*This is my first blog entry in Github using HubPress.*
